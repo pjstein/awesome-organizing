@@ -29,3 +29,7 @@ An awesome repository of all the awesome organizing that all the awesome progres
 - **[Voter Help Line](https://github.com/tomerovadia/VoterHelpLine).** Run a voter help line system using Twilio and Slack. Deployed by the Georgia Dems during the 2020 Runoffs.
 - **[Turnout](https://github.com/vote/turnout).** A multi-tenant voter notification, verification, registration, and Get Out The Vote app built to get as many people as possible to the polls.
 - **[democracy.io](https://github.com/sinak/democracy.io).** Express & Angular app for sending messages to Senate and House members
+
+## Vendors
+
+- **[Scale to Win](https://scaletowin.com).** Hosted Spoke (peer-to-peer texting)
