@@ -1,5 +1,6 @@
 # Awesome Organizing
 
+An awesome repository of all the awesome organizing that all the awesome progressives are doing about there ✨
 ## Programs
 - 
 
