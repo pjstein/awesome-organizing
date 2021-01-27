@@ -1,6 +1,6 @@
 # Awesome Organizing
 
-An awesome repository of all the awesome organizing that all the awesome progressives are doing about there ✨
+An awesome repository of all the awesome organizing that all the awesome progressives are doing out there ✨
 ## Programs
 
 - **[Don’t Agonize, Organize: The Ed Markey Organizing Model](https://medium.com/@emma.h.friend/dont-agonize-organize-the-ed-markey-organizing-model-cf6364ab167e).** Ed Markey 2020's lessons learned on embracing the chaos, organizing to win, and building a movement in this new era
