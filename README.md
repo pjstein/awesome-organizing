@@ -6,9 +6,6 @@ An awesome repository of all the awesome organizing that all the awesome progres
 - **[Don’t Agonize, Organize: The Ed Markey Organizing Model](https://medium.com/@emma.h.friend/dont-agonize-organize-the-ed-markey-organizing-model-cf6364ab167e).** Ed Markey 2020's lessons learned on embracing the chaos, organizing to win, and building a movement in this new era
 - **[Ed Markey’s Relational-First Organizing Approach](https://medium.com/@emma.h.friend/ed-markeys-relational-first-organizing-approach-137bbfc4852).** Ed Markey’s 2020 Senate re-election campaign leaned into relational organizing from the start and found success under one key principle: Keep it simple, silly.
 
-## Training Materials
--
-
 ## Books
 
 - **[Rules for Revolutionaries: How Big Organizing Can Change Everything](https://bookshop.org/books/rules-for-revolutionaries-how-big-organizing-can-change-everything/9781603587273).** A delightful look into Sanders 2016 and a playbook on using tech to scale up grassroots organizing.
